@@ -1,0 +1,11 @@
+Panelist_ID,Candidate_ID,Result
+1,1,PASS
+2,2,PASS
+3,3,PASS
+4,4,PASS
+5,5,PASS
+1,6,PASS
+2,7,PASS
+3,8,FAIL
+4,9,FAIL
+5,10,FAIL

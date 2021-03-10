@@ -1,0 +1,11 @@
+Downloads_ID,Status,Date,URL,D_ID,Album_ID
+1,Success,2020-12-14,"https://Music2.com,/in/tempor.aspx?pharetra=elementum&magna=in&vestibulrae&vita",3,2
+2,Success,2020-12-16,http://Music4.com/morbi.jpg?cum=orci&sociis=luctus&natoque=et&penatibus=ultrices&et=posuere,4,5
+3,Success,2020-12-18,https://Music1.com/semper/sapien/a/libero.json?tortor=convallis&quis=duis,3,5
+4,Success,2020-12-11,https://Music3.com/sit/amet.jsp?vestibulum=odio&ante=elementum&ipsuipiscing&imperdiet=lorem&sapien=vitae&urna=mattis&pretium,4,2
+5,Success,2020-12-12,http://Music4.com/morbi.jpg?cum=orci&sociis=luctus&natoque=et&penatibus=ultrices&et=posuere,5,4
+6,Success,2020-12-19,https://Music5.com/nascetur/ridiculus/mus/vivamus/vestibulum.js?orci=vel&luctus=accumsan&et=tellus&ultrices=nisi&posuere=eu,1,3
+7,Success,2020-12-20,"https://Music2.com,/in/tempor.aspx?pharetra=elementum&magna=in&vestibulrae&vita",1,4
+8,Failure,2020-12-13,https://Music3.com/sit/amet.jsp?vestibulum=odio&ante=elementum&ipsuipiscing&imperdiet=lorem&sapien=vitae&urna=mattis&pretium,2,1
+9,Failure,2020-12-17,https://Music5.com/nascetur/ridiculus/mus/vivamus/vestibulum.js?orci=vel&luctus=accumsan&et=tellus&ultrices=nisi&posuere=eu,5,3
+10,Failure,2020-12-15,https://Music1.com/semper/sapien/a/libero.json?tortor=convallis&quis=duis,2,1
